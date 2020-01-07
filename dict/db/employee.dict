@@ -1,0 +1,3 @@
+employee@id java.lang.String * ^ null null
+employee@department_id java.lang.String ^ * department department@id
+employee@age java.lang.Integer ^ ^ null null

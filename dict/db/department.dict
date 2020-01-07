@@ -1,0 +1,2 @@
+department@id java.lang.String * ^ null null
+department@name java.lang.String ^ ^ null null
