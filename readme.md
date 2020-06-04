@@ -1,10 +1,10 @@
-Database Management System
+# Database Management System
 
-Written by Jiayue Wu, Youhui Yang, Ting Zuo
+*Written by Jiayue Wu, Youhui Yang, Ting Zuo*
 
 This is a basic database management system. Run in terminal. Start from src/execute/main.java. src/execute/execute.java is used to create data file used to test.
 
-Structure:
+## Structure:
 
 Attribute: Name, type, primary key, foreign key, tuple list
 Primary key not allow duplicates;
@@ -33,7 +33,7 @@ Having - after group by.
 
 
 
-Optimization:
+## Optimization:
 
 We enable the index on single attribute; (done)
 The selection at bottom; (done)
@@ -43,7 +43,7 @@ Able to Sort the conditions according to the corresponding attribute’s selecti
 The projection at bottom; (not done)
 
 
-Query Input Manager:
+## Query Input Manager:
 
 The program implemented below listed functions for Query Input Manager.
 Input
